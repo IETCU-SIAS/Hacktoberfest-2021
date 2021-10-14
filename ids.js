@@ -1,3 +1,2 @@
 const GitHubIds = [
-    "rohittp0",
 ];
