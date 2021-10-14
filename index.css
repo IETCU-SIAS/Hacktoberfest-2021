@@ -1,0 +1,40 @@
+.card {
+    display: inline-block;
+    background-color: wheat;
+    margin: 0.5em;
+    text-align: center;
+    font-family: system-ui;
+    text-decoration: none;
+    color: black;
+    transition: all 0.5s;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+#root {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+svg {
+    font: bold 70px fantasy, cursive;
+    height: 0.6em;
+    margin: 0.25em 0 0.5em 0;
+}
+
+text {
+    fill: gold;
+    stroke: black;
+    stroke-width: .5px;
+    stroke-linejoin: round;
+    animation: 4s pulsate infinite;
+}
+
+@keyframes pulsate {
+    50% {
+        stroke-width: 5px
+    }
+}
