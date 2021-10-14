@@ -1,2 +1,3 @@
 # Hacktoberfest-2021
-A repo for first time contributors.  
+
+Add your name to ids.js and once your pull request has been accepted visit this site to see the magic.
