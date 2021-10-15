@@ -1,3 +1,3 @@
 const GitHubIds = [
-  "rohittp0"
+  "rohittp0","sninaus"
 ];
