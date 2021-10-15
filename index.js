@@ -5,7 +5,7 @@ function makeCard(dp,login,name)
     return( 
         `<a class="card" href="https://github.com/${login}">
             <img src="${dp}" width="230px" ></img>
-            <h4>${name}</h4>
+            <h4>${name || login}</h4>
         </a>
         `
     )
