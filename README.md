@@ -11,16 +11,17 @@ Earn your swags by contributing to eligible repositories. Check out [Swag List](
 
 ### Steps to Contribute:
 
-1. Fork this repository
-2. Add your github username in [ids.js](./ids.js)
+1. Star this repository
+2. Fork this repository
+3. Add your github username in [ids.js](./ids.js)
 ```
 const GitHubIds = [
   "rohittp0",
   "<your-github-username>"
 ];
 ```
-3. Commit and raise a PR.
-4. Congratulations!🎺 You've successfully created a PR.
+4. Commit and raise a PR.
+5. Congratulations!🎺 You've successfully created a PR.
 
 
 [Twitter](https://twitter.com/hacktoberfest) | [Instagram](https://www.instagram.com/hacktoberfest) 
