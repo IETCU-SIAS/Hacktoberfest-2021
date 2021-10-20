@@ -6,5 +6,6 @@ const GitHubIds = [
   "sanumuhammedc",
   "hadibp",
   "godwin0805",
+  "yash17shri",
 ];
 
